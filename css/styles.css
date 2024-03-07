@@ -27,7 +27,7 @@ header {
     padding: 5px 10px; 
     color: black; 
     text-decoration: none; 
-    background-color: #f1f1bb;
+    background-color: #f8f8f6;
     border-radius: 5px
 }
 
@@ -38,7 +38,7 @@ header {
 
 
 .navigation .active a {
-    color: rgb(181, 193, 79); 
+    color: rgb(40, 44, 106); 
     font-weight: bold;
     background-color: #f0f0f0;
     padding: 10px 10px;
@@ -144,7 +144,7 @@ body {
     background-color: #f0f0f0
 }
 
-.jump-to-bottom {
+.jump-to-top {
     position: fixed;
     right: 20px;
     bottom: 20px;
@@ -158,7 +158,7 @@ body {
     opacity: 0.8
 }
 
-.jump-to-bottom:hover {
+.jump-to-top:hover {
     background-color: #6fa0d5; 
     opacity: 1
 }
@@ -202,7 +202,7 @@ html {
         background-color: #e9e9e4; 
         color: black; 
         text-align: center;
-        padding: 15px 0; 
+        padding: 15px 0 15px; 
         border-radius: 5px;
     }
 
